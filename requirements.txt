@@ -1,0 +1,10 @@
+Flask
+gunicorn
+requests
+psycopg2-binary
+flask-cors
+numpy
+joblib
+scikit-learn
+supabase
+xgboost
